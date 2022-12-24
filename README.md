@@ -1,4 +1,4 @@
-# puntos-extras
+# Enjoy searching
 
 ## Project setup
 ```
